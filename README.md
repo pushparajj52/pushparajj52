@@ -81,11 +81,11 @@ I am actively working towards **internships and impactful projects** where I can
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Si-ra-kri&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushparajj52&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Si-ra-kri&theme=dark&hide_border=false)  
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=pushparajj52&theme=dark&hide_border=false)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Si-ra-kri&theme=dark&hide_border=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pushparajj52&theme=dark&hide_border=false&layout=compact)
 
 ---
 
@@ -103,9 +103,10 @@ I am actively working towards **internships and impactful projects** where I can
 I am open-minded and interested in **travel and exploring new perspectives**, which helps me approach problems with broader thinking and adaptability.
 
 ---
+ <h2 align="center">✍️ Dev Quote</h2>
 
-## ✍️ Dev Note
-
-> Strong systems + strong problem solving = long-term advantage
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Understand+deeply.;Build+practically.;Optimize+continuously."/>
+</p>
 
 ---
